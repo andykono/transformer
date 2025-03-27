@@ -25,4 +25,4 @@ build/
 coverage/
 
 # Scripts with sensitive data
-scripts/script.sh 
+scripts/
