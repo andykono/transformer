@@ -1,0 +1,29 @@
+# Build output
+dist
+build
+
+# Dependencies
+node_modules
+
+# Coverage directory
+coverage
+
+# Logs
+*.log
+
+# Environment variables
+.env*
+
+# Cache directories
+.cache
+.npm
+
+# IDE specific files
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db 
